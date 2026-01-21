@@ -42,5 +42,7 @@ This system combines **two intelligent AI agents** into one unified platform:
 ---
 
 ## 📂 Folder Structure
-![image] (image.png)
+<p align="center">
+  <img src="image.png" alt="HR SOP Agents Architecture" width="700">
+</p>
 
