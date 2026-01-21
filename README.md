@@ -42,19 +42,4 @@ This system combines **two intelligent AI agents** into one unified platform:
 ---
 
 ## 📂 Folder Structure
-HR_SOP_AGENTS_MERGED/
-│
-├── Data/
-│ └── Documents/ # SOP & Work Procedure markdown files
-│
-├── uploads/hc/ # Uploaded HR policy documents
-│
-├── agents.py # Core agent logic (SOPAgent & HCAgent)
-├── ingest.py # Document ingestion & vector creation
-├── prompts.py # System & response prompts for both agents
-├── config.py # Azure OpenAI & system configuration
-├── api.py # Unified FastAPI backend (all endpoints)
-├── streamlit.py # Streamlit frontend UI
-├── requirements.txt # Python dependencies
-├── .env # Azure OpenAI credentials
-└── README.md
+
